@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: wp-dBug
-Version: 0.1
+Version: 0.2
 Plugin URI: http://neverblog.net/wp-dbug
 Description: Plugin implements the awesome dBug class created by Kwaku Otchere for use in WordPress plugin debugging
 Author: Vasken Hauri
